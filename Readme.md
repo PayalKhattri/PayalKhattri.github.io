@@ -9,7 +9,7 @@
   </a>
   </kbd>
 </p>
-
+<!--
 #### About Page
 <p align="center"> 
   <kbd>
@@ -44,4 +44,4 @@
 ✔️ Resume\
 ✔️ Contact Info
 
-
+-->
