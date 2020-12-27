@@ -1,6 +1,6 @@
 # Personal Portfolio 🔥
 > https://PayalKhattri.github.io/
-
+<!--
 ### Website Preview
 #### Home Page
 <p align="center"> 
@@ -9,7 +9,7 @@
   </a>
   </kbd>
 </p>
-<!--
+
 #### About Page
 <p align="center"> 
   <kbd>
